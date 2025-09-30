@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I’m a Computer Engineering graduate passionate about **IoT, Cloud Computing, and Embedded Systems**, with hands-on experience in building intelligent, connected solutions that merge **AI, automation, and data-driven insights**.  
+I’m a Computer Engineering graduate passionate about **IoT, AI, and Embedded Systems**, with hands-on experience in building intelligent, connected solutions that merge **AI, automation, and data-driven insights**.  
 
 ---
 
