@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hytham Yahya Almarie
+# Hi there 👋, I'm Hytham Yahya AL-Marie
 
 💻 **Computer Engineer | IoT & AI Enthusiast | Embedded Systems Developer**  
 📧 [Email](mailto:hytham.almarie@gmail.com) | 
